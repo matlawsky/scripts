@@ -1,0 +1,5 @@
+# Ignore everything but the files below
+*
+
+!.gitignore
+!start_project.py
